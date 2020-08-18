@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "417c2ae5-bd4f-40bb-9c09-2fdd2107ae64",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/game/Pages/FightUI/Room/RoomType/FightMutiRoom1/astar/Grid.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6d77f356-b9fa-4f7a-b553-29dc0ae9c0c1",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/game/Pages/FightUI/Room/RoomType/FightMutiRoom1/astar/AStar.js"
+  }
+}
